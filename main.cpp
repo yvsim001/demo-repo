@@ -8,3 +8,8 @@
 #include <stdio.h>
 #include <util/delay.h>
 #include <string.h>
+
+int main()
+{
+    return 0;
+}
