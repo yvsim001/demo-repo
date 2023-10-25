@@ -1,4 +1,4 @@
 # Demo-repo
 ## *Inhalt*:
-$* Header -files$
-$* Main -files$
+$ *Header -files$
+$ *Main -files$
